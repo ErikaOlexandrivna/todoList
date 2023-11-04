@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class TodoListScreen extends StatefulWidget{`
+class TodoListScreen extends StatefulWidget {
   const TodoListScreen({super.key});
 
   @override
